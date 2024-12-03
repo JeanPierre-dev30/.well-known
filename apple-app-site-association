@@ -1,0 +1,20 @@
+{
+   "applinks":{
+      "apps":[
+         
+      ],
+      "details":[
+         {
+            "appID":"AG8C8PCV7J.com.example.webauthndemo",
+            "paths":[
+               "*"
+            ]
+         }
+      ]
+   },
+   "webcredentials":{
+      "apps":[
+         "AG8C8PCV7J.com.example.webauthndemo"
+      ]
+   }
+}
