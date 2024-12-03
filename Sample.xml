@@ -1,0 +1,12 @@
+<configuration>
+<system. webServer>
+<rewrite>
+<rules>
+<rule name="Rewrite apple-app-site-association">
+<match url-"^I.well-known/apple-app-site-associations" />
+<action type="Rewrite" url-"/.well-known/apple-app-site-association.
+</rule>
+</rules>
+</rewrite>
+</system.webserver>
+</configuration>
